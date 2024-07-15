@@ -5,7 +5,7 @@ import playGame from '../index.js';
 const gameRules = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const initGameRound = () => {
-  const randomNum = getRandomNum();
+  const randomNum = getRandomNum() + 1;
   const question = `${randomNum}`;
   const correctAnswer = isPrime(randomNum) ? 'yes' : 'no';
 
