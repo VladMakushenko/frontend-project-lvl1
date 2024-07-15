@@ -19,6 +19,7 @@
 * brain-prime
 
 ## Демонстрация игр
+
 ### brain-even
 [![asciicast](https://asciinema.org/a/WATeaBQBOAe2eXcaqJKsGj8F9.svg)](https://asciinema.org/a/WATeaBQBOAe2eXcaqJKsGj8F9)
 ### brain-calc
@@ -27,3 +28,5 @@
 [![asciicast](https://asciinema.org/a/Yvhj2GmIBtRiBe8M6HDBnlLBe.svg)](https://asciinema.org/a/Yvhj2GmIBtRiBe8M6HDBnlLBe)
 ### brain-progression
 [![asciicast](https://asciinema.org/a/Y3CqhIYvFFlDuq8wqMXOUnQpu.svg)](https://asciinema.org/a/Y3CqhIYvFFlDuq8wqMXOUnQpu)
+### brain-prime
+[![asciicast](https://asciinema.org/a/qHgfomURG1vVj9XdrbfCAjhZc.svg)](https://asciinema.org/a/qHgfomURG1vVj9XdrbfCAjhZc)
