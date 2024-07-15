@@ -19,3 +19,5 @@
 * brain-prime
 
 ## Демонстрация игр
+### brain-even
+[![asciicast](https://asciinema.org/a/WATeaBQBOAe2eXcaqJKsGj8F9.svg)](https://asciinema.org/a/WATeaBQBOAe2eXcaqJKsGj8F9)
