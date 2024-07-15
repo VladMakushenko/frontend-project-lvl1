@@ -23,3 +23,5 @@
 [![asciicast](https://asciinema.org/a/WATeaBQBOAe2eXcaqJKsGj8F9.svg)](https://asciinema.org/a/WATeaBQBOAe2eXcaqJKsGj8F9)
 ### brain-calc
 [![asciicast](https://asciinema.org/a/4mM17kUJcy658Q43zpbo9PHx4.svg)](https://asciinema.org/a/4mM17kUJcy658Q43zpbo9PHx4)
+### brain-gcd
+[![asciicast](https://asciinema.org/a/Yvhj2GmIBtRiBe8M6HDBnlLBe.svg)](https://asciinema.org/a/Yvhj2GmIBtRiBe8M6HDBnlLBe)
